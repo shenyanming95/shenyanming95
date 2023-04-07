@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @shenyanming95
 - 👀 I’m interested in `source code research`
-- 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning C/Go
+- 📫 How to reach me: sym542569199@gmail.com
 
 <!---
 shenyanming95/shenyanming95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
